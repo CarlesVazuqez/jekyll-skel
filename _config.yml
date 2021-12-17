@@ -5,7 +5,7 @@ description: >-
   para prácticas de alumnos utilizando Markdown, HTML,
   JavaScript, CSS y otras tecnologías relacionadas
 baseurl: "/jekyl-skel"
-url: "https://carlesvazuqez.github.io/jekyll-skel/"
+url: "https://carlesvazuqez.github.io/"
 
 theme: minima
 #plugins:
